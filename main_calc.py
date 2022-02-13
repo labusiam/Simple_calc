@@ -1,6 +1,6 @@
 from class_calc import Calculator
 
-
+# program untuk menjalankan calculator
 while True:
     
     user_input = input("Tuliskan nilai yang ingin dihitung: ")
